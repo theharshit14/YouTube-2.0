@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/YouTube-2.0/static/css/main.704c50c5.css",
+    "main.js": "/YouTube-2.0/static/js/main.00aa7955.js",
+    "static/js/453.1f30b357.chunk.js": "/YouTube-2.0/static/js/453.1f30b357.chunk.js",
+    "index.html": "/YouTube-2.0/index.html",
+    "main.704c50c5.css.map": "/YouTube-2.0/static/css/main.704c50c5.css.map",
+    "main.00aa7955.js.map": "/YouTube-2.0/static/js/main.00aa7955.js.map",
+    "453.1f30b357.chunk.js.map": "/YouTube-2.0/static/js/453.1f30b357.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.704c50c5.css",
+    "static/js/main.00aa7955.js"
+  ]
+}
